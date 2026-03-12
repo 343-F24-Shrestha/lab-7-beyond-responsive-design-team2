@@ -13,8 +13,8 @@ Students will collaborate to add:
 ## Plan
 
 1. Who will implement the new breakpoint for Tiny viewports?
-    * Partner name: DUKE DAWG
-2. Who will implement dark mode?
-    * Partner name: JAMES SCHMIDT
+    * Partner name: Tyler Burhans
+2. Who will implement dark mode? 
+    * Partner name: Amaya Cranford
 3. Who will implement responsive images?
-    * Partner name: THEY WILL
+    * Partner name: Tyler Burhans
