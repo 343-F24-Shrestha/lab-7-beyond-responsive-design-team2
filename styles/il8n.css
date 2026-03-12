@@ -1,0 +1,9 @@
+
+
+/*:root {
+    /* TEST 1: Arabic/Hebrew (Right-to-Left) */
+    /*direction: rtl;*/
+
+    /* TEST 2: Japanese/Korean (Vertical) */
+    /*writing-mode: vertical-rl;
+    text-orientation: upright;*/
