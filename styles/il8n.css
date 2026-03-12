@@ -1,9 +1,12 @@
+/* For Arabic or Hebrew (Right-to-Left) */
+/* direction: rtl; */
 
+/* For Vertical Japanese or Korean (Top-to-Bottom, Right-to-Left) */
+/* writing-mode: vertical-rl; */
+/* text-orientation: upright; */
 
-/*:root {
-    /* TEST 1: Arabic/Hebrew (Right-to-Left) */
-    /*direction: rtl;*/
-
-    /* TEST 2: Japanese/Korean (Vertical) */
-    /*writing-mode: vertical-rl;
-    text-orientation: upright;*/
+body {
+    inline-size: 100%;
+    margin-inline: auto;
+    padding-inline: 5%;
+}
