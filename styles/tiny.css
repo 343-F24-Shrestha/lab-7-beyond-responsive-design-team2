@@ -1,0 +1,14 @@
+@media (width <=374px) {
+	.wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "header"
+            "content"
+            "nav";
+    }
+	
+	.side, .ad, .main-footer {
+        display: none;
+    }
+}
