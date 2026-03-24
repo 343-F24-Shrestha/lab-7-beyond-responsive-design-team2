@@ -1,13 +1,21 @@
+body {
+  background-color: white;
+  color: black;
+}
+
 @media (prefers-color-scheme: dark) {
-  body:not(.light) * {
-    background-color: black !important;
-    color: white !important;
-    border-color: white !important;
+  body:not(.light) {
+    background-color: black;
+    color: white;
   }
 }
 
-body.dark * {
+body.dark {
   background-color: black !important;
   color: white !important;
-  border-color: white !important;
+}
+
+body.light {
+  background-color: white !important;
+  color: black !important;
 }
