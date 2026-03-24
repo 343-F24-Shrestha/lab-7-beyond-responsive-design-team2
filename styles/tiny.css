@@ -7,7 +7,7 @@
             "nav";
     }
 	
-	.side, .ad, .main-footer {
+	.header .side, .ad, .main-footer {
         display: none;
     }
 }
