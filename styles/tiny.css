@@ -3,7 +3,6 @@
         display: grid;
         grid-template-columns: 1fr;
         grid-template-areas: 
-            "header"
             "content"
             "nav";
     }
